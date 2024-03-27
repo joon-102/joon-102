@@ -2,7 +2,6 @@
 I am a student who loves programming.
 
 ## 📫 Connect
-- Discord: [@jiinhyeog](https://discord.com/users/838662238306566165/)
 - Email: joon_1@outlook.kr
   
 ## 📚 Github Stats  

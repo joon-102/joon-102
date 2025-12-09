@@ -1,5 +1,7 @@
-# Hi there 👋
-I am a student who loves programming.  
+# 안녕하세요 👋
+저는 프로그래밍을 좋아하는 학생이에요.  
 📫 taejeong654@gmail.com
-## Stats  
-![Stats](https://github-readme-stats.vercel.app/api?username=joon-102&show_icons=true&theme=dark&hide_border=true&count_private=true)
+## 스탯 
+![GitHub Card](https://githubcard.com/joon-102.svg?d=QYq6cWSn)
+
+
